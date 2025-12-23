@@ -1,0 +1,9 @@
+# Block 19 of 65, original lines 181-190
+If the card doesn’t exist, throws an error
+
+Copy
+updateStoryCard(index, keys, entry, type)
+updateWorldEntry also works for backwards compatibility, but is deprecated.
+
+Return
+Scripting API hooks can return the following values

@@ -1,0 +1,9 @@
+# Block 16 of 65, original lines 151-160
+log
+Logs information to the console.
+
+Copy
+log("hello, world")
+console.log also works to reduce confusion
+
+sandboxConsole.log also works for backward compatibility, but is deprecated.

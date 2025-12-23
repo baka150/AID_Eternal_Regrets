@@ -1,0 +1,11 @@
+# Block 24 of 65, original lines 231-240
+state.items = ['sword']
+
+    // Setting state.memory.context will cause that to be used instead of the user set memory
+    state.memory = {context: 'You have a sword.'}
+
+    // Setting state.message will set an info message that will be displayed in the game
+    state.message = 'You got a sword!'
+
+    // You can log things to the side console when testing with console.log
+    console.log('Added a sword to player')

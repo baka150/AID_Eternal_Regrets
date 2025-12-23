@@ -1,0 +1,12 @@
+/* start JSON Code Segment 13 of 23, original lines 121-130 (balanced) */
+},
+  {
+    "keys": "Enchanted Art Club",
+    "value": "Sculpting golems from clay that animate for short periods.",
+    "type": "world",
+    "title": "Enchanted Art Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+/* end JSON Code Segment 13 of 23 */

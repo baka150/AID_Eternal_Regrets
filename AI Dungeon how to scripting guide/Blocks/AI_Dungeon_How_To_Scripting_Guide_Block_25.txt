@@ -1,0 +1,10 @@
+# Block 25 of 65, original lines 241-250
+modifiedText = text + '\nYou also now have a sword!'
+  }
+
+    // You must return an object with the text property defined.
+    return {text: modifiedText}
+}
+
+// Don't modify this part
+modifier(text)

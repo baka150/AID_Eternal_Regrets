@@ -1,0 +1,42 @@
+[
+  {
+    "keys": "Intimate Progression",
+    "value": "Build slowly: flirting > kissing > bedding (consensual, emotional, trait-tied post-Friend). Beyond: marriage, pregnancies, kids. Twists optional.",
+    "type": "plot",
+    "title": "Intimate Progression",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Suitor Ledger",
+    "value": "Growing list of suitors met. Adds on fly with traits and hints.",
+    "type": "plot",
+    "title": "Suitor Ledger",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Academy Classes",
+    "value": "Core classes: Potion Brewing, Swordplay, Arcane Lore, Enchantment Arts, Beast Taming, Illusion Weaving. Assign suitors on encounter.",
+    "type": "world",
+    "title": "Academy Classes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Daily Schedule",
+    "value": "Expanded: before_school_dorm, morning_class, lunch_break, afternoon_class, club_time, evening_free, night_dorm. Weekends: free_time. Advance on intents/auto-ends.",
+    "type": "world",
+    "title": "Daily Schedule",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Debate Club",
+    "value": "Heated debates with magical truth serums for honest resolutions.",
+    "type": "world",
+    "title": "Verbal Vanguard Club",
+    "description": "",
+    "useForCharacterCreation": true
+  }
+]

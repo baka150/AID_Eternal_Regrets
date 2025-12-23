@@ -1,0 +1,11 @@
+# Block 55 of 65, original lines 541-550
+]
+    }
+
+    if (state.initialised != true) {
+        state.finishedScenario = false
+        state.initialised = true
+        if (!state.configuration.enableSelectionOnCompletedQuest) {
+            state.availableQuests = JSON.parse(JSON.stringify(state.configuration.quests))
+        } else {
+            state.availableQuests = []

@@ -1,0 +1,10 @@
+# Block 14 of 15, original lines 131-140
+Google Nano Banana Flash—20 credits, Unlimited for Reaper + Apocalypse
+Google Nano Banana Pro—60 credits, Unlimited for Apocalypse
+See Action Update
+See Action Update
+NEW FEATURE (BETA)
+
+Images can enhance your AI Dungeon adventures, but interrupting the flow of your story to generate a prompt can kill your vibe. Now, if you leave the "See" action prompt blank, we'll automatically generate an image for you by using portions of your story, including story cards, to prompt the image model for you.
+
+This feature is currently available in Beta and will be available in Production in January.

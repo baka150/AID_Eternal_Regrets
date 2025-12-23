@@ -1,0 +1,12 @@
+/* start JSON Code Segment 8 of 23, original lines 71-80 (balanced) */
+"description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Debate Club",
+    "value": "Heated debates with magical truth serums for honest resolutions.",
+    "type": "world",
+    "title": "Verbal Vanguard Club",
+    "description": "",
+    "useForCharacterCreation": true
+/* end JSON Code Segment 8 of 23 */

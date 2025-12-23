@@ -1,0 +1,8 @@
+/* start JSON Code Segment 23 of 23, original lines 221-226 (unbalanced braces) */
+"type": "Romance Gender Preference",
+    "title": "Both",
+    "description": "Pursue romances with both males and females.",
+    "useForCharacterCreation": true
+  }
+]
+/* end JSON Code Segment 23 of 23 */

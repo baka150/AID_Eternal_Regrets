@@ -1,0 +1,4 @@
+# Block 65 of 65, original lines 641-643
+Story Cards
+Changes to story cards made in earlier hooks are not always present in later hooks.
+Update to story cards in the context hook are overwritten if separate updates are made in the output hook.

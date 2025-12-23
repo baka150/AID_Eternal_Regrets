@@ -1,0 +1,12 @@
+/* start JSON Code Segment 20 of 23, original lines 191-200 (balanced) */
+"description": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "No",
+    "value": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "type": "Enable Polygamy?",
+    "title": "No",
+    "description": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "useForCharacterCreation": true
+/* end JSON Code Segment 20 of 23 */

@@ -1,0 +1,11 @@
+# Block 56 of 65, original lines 551-560
+}
+        state.assignedQuest = ""
+        state.nextOutput = ""
+    }
+
+    state.nextOutput = ""
+
+    if (text.toLowerCase().startsWith("\n> you take up quest ")) {
+        state.assignedQuest = JSON.parse(JSON.stringify(state.availableQuests[text.toLowerCase().substring(21) - 1]))
+        quests.push({

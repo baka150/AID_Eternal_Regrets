@@ -1,0 +1,10 @@
+# Block 42 of 65, original lines 411-420
+if(state.turn > 2){
+  state.memory = {context:  "You're probably going to die."}
+  }
+  if(state.turn > 6){
+    state.memory = {context: "You're about to die."}
+  }
+  else if(state.turn > 10){
+    state.memory = {context: "You have no hope. There are minutes left till you die."}
+  }

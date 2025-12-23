@@ -1,0 +1,11 @@
+# Block 51 of 65, original lines 501-510
+const lowered = text.toLowerCase()
+	for(spellName in spells){
+    if(lowered.includes('cast ' + spellName.toLowerCase())){
+      if(!state.spells.includes(spellName)){
+        state.spells.push(spellName)
+        state.message = "Congrats you've learned the " + spellName + " spell!"
+      }
+      modifiedText = text + '\n' + 'You cast ' + spellName + ', ' + spells[spellName]
+    }
+  }

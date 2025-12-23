@@ -1,0 +1,11 @@
+# Block 32 of 65, original lines 311-320
+context = [context.slice(0, index + pattern.length), "\n", note, context.slice(index + pattern.length)].join('')
+      return true
+    } else {
+      // Only keep ones that were found, otherwise they must have moved out of the history window.
+      return false
+    }
+  })
+
+  // Make sure the new context isn't too long, or it will get truncated by the server.
+  context = context.slice(-(info.maxChars - info.memoryLength))

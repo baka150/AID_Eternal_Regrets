@@ -1,0 +1,10 @@
+# Block 6 of 15, original lines 51-60
+Learn more about this experiment on our blog post.
+
+AtlasNEW EXPERIMENTAL MODEL
+Atlas
+STORY/TEXT MODEL (PREMIUM)
+
+Along with its cousin, Raven, Atlas is a new class of AI model for AI Dungeon, featuring a more efficient way for managing memory and context. Atlas is the experimental Pluto model that was highly loved in our last beta test. Based on DeepSeek 3.2, Atlas is equipped with a brand-new cache-efficient processor and a shiny new summary system, enabling an experience that remembers and tracks your story much better.
+
+Note: This model is experimental and may have bugs / edge cases to refine. Not all scripting functions are supported. Available until January 18th.

@@ -1,0 +1,12 @@
+/* start JSON Code Segment 7 of 23, original lines 61-70 (balanced) */
+"type": "world",
+    "title": "Academy Classes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Daily Schedule",
+    "value": "Expanded: before_school_dorm, morning_class, lunch_break, afternoon_class, club_time, evening_free, night_dorm. Weekends: free_time. Advance on intents/auto-ends.",
+    "type": "world",
+    "title": "Daily Schedule",
+/* end JSON Code Segment 7 of 23 */

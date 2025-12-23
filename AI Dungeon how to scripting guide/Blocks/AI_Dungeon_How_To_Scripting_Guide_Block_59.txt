@@ -1,0 +1,10 @@
+# Block 59 of 65, original lines 581-590
+let modifiedText = text
+
+    if (!state.finishedScenario || !state.configuration.enableSelectionOnCompletedQuest) state.message = ""
+
+    if ((state.finishedScenario || !state.configuration.enableSelectionOnCompletedQuest) && state.assignedQuest == "") {
+        questNames = []
+        for (quest of state.availableQuests) {
+            questNames.push(quest.name)
+        }

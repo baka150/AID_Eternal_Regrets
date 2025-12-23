@@ -1,0 +1,11 @@
+# Block 10 of 65, original lines 91-100
+For the onModelContext hook, this field has the text that would otherwise be sent to the AI.
+
+For the onOutput hook, this field has the text that would otherwise be sent back to the player.
+
+history
+This field has an array of recent actions from the adventure.
+
+Each action has the following fields.
+
+text - the text of the action

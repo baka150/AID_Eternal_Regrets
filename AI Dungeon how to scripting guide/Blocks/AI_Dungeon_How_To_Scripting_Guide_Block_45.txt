@@ -1,0 +1,11 @@
+# Block 45 of 65, original lines 441-450
+const modifier = (text) => {
+  if(!state.initialized) {
+    state.initialized = true;
+    state.randomNumber = Math.round(Math.random()*9999+1);
+    state.remainingGuesses = 13;
+  }
+
+  var match = text.match(/(\d+)/)
+  if(match && match[1]) {
+    state.remainingGuesses--;

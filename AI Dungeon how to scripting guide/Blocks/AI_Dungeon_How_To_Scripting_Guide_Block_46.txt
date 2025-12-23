@@ -1,0 +1,11 @@
+# Block 46 of 65, original lines 451-460
+var number = parseInt(match[1]);
+
+    var output = "\nYou have "+state.remainingGuesses+" guesses remaining.  ";
+
+    if(number == state.randomNumber) {
+      output += "\nYou guessed the number!  Congratulations, you win!";
+    } else if (state.remainingGuesses <= 0) {
+      output += "\nYou ran out of guesses!  You are dead.  You lose!";
+    } else if (number > state.randomNumber) {
+      output += "\nYour guess is too high!";

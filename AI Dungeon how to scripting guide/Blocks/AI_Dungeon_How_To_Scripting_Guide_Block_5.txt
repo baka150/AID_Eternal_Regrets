@@ -1,0 +1,11 @@
+# Block 5 of 65, original lines 41-50
+state - this is the updated state object after running the script
+storyCards - this is the array of story cards after running the script
+Console Log
+After selecting a non-library script, you will see the Console Log option in the panel on the right. This option will show recent console logs from adventures that you personally have started from this scenario. Only console logs from adventures created by the creator of the scenario will show up in the Console Log section.
+
+Console logs are pushed to the Console Log section in real time, so if you can have one tab open with the Scripting Editor and a separate tab open with a play test, you can watch the console logs as they happen.
+
+Logs are saved for 15 minutes.
+
+Top Navigation Bar

@@ -1,0 +1,12 @@
+/* start JSON Code Segment 15 of 23, original lines 141-150 (balanced) */
+"type": "world",
+    "title": "Mythic Feastmasters Guild",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Sonic Resonance Club",
+    "value": "Using sound amplifiers and harmonic devices for sparks.",
+    "type": "world",
+    "title": "Harmonic Enchanters Symphony",
+/* end JSON Code Segment 15 of 23 */

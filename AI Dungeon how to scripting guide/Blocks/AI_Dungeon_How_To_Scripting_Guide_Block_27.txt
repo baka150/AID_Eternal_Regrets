@@ -1,0 +1,11 @@
+# Block 27 of 65, original lines 261-270
+Copy
+// Input Modifier
+
+const modifier = (text) => {
+  state.notes = state.notes || []
+
+  if (text.match(/> You note:/i)) {
+    const note = text.replace(/> You note: ?/i, '').trim()
+    state.notes.push({
+      pattern: history.map(({text}) => text).join('').split("\n").pop(),

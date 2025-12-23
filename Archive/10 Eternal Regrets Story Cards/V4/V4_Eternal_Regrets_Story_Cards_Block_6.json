@@ -1,0 +1,12 @@
+/* start JSON Code Segment 6 of 23, original lines 51-60 (balanced) */
+"keys": "Suitor Ledger",
+    "value": "Growing list of suitors met. Adds on fly with traits and hints.",
+    "type": "plot",
+    "title": "Suitor Ledger",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Academy Classes",
+    "value": "Core classes: Potion Brewing, Swordplay, Arcane Lore, Enchantment Arts, Beast Taming, Illusion Weaving. Assign suitors on encounter.",
+/* end JSON Code Segment 6 of 23 */

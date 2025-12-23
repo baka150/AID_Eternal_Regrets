@@ -1,0 +1,11 @@
+# Block 10 of 15, original lines 91-100
+Previously a premium-only model, Harbinger is now available to everyone. Harbinger is our adventure finetune that actually lets you fail. Built on Mistral Small, it creates stories where choices have consequences and plot armor doesn't exist. Characters can die. Plans can go sideways. The world pushes back.
+
+If Hearthfire is the cozy evening by the fire, Harbinger is the blizzard outside that might kill you if you make bad decisions. We're happy to let you choose your vibe.
+
+Free: 2k
+Champion: 8k
+Legend: 16k
+Mythic+: 32k
+MuseMuse
+Muse

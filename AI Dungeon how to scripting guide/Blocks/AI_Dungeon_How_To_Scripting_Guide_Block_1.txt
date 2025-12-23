@@ -1,0 +1,11 @@
+# Block 1 of 65, original lines 1-10
+How to use Scripting in AI Dungeon
+icon
+Scripting allows creators to modify the player experience beyond what is supported in the Scenario editor.
+Scenarios
+Scripts are attached to Scenarios. Adventures started from a Scenario have separate game states but share the same scripts.
+
+Only Simple Start and Character Creator Scenarios can have scripts. Multiple Choice Scenarios can’t have scripts, but can have options that have scripts. Scripts in options for Multiple Choice Scenarios are independent.
+
+Visibility
+Only the creator of a scenario can see the scripts for that scenario.

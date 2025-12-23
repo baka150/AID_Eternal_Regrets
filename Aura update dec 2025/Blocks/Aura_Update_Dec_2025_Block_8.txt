@@ -1,0 +1,11 @@
+# Block 8 of 15, original lines 71-80
+Raven
+STORY/TEXT MODEL (PREMIUM)
+
+Raven comes equipped with the same brand-new cache-efficient system as Atlas. It's based on the popular GLM model which is particularly well suited for the new caching system. Players tested Raven as Neptune in our beta tests and enjoyed its sharp writing style and coherence.
+
+Like Atlas, Raven supports higher context lengths with cache-efficient processing and overflow summarization.
+
+Note: This model is experimental and may have bugs / edge cases to refine. Not all scripting functions are supported. Available until January 18th.
+
+Available at the following tiers:

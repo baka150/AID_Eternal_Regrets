@@ -1,0 +1,12 @@
+/* start JSON Code Segment 11 of 23, original lines 101-110 (balanced) */
+"type": "world",
+    "title": "Lore Legends Society",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Cooking Club",
+    "value": "Brewing potions disguised as gourmet meals with magical effects.",
+    "type": "world",
+    "title": "Culinary Alchemy Society",
+/* end JSON Code Segment 11 of 23 */

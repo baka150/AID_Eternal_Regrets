@@ -1,0 +1,11 @@
+# Block 61 of 65, original lines 601-610
+state.availableQuests.push(nextQuest)
+                }
+                state.assignedQuest = ""
+                questNames = []
+                for (quest of state.availableQuests) {
+                    questNames.push(quest.name)
+                }
+                state.message = "Available Quests: " + questNames.join(", ") + ". To take up a quest, type 'take up quest <quest number in list>'."
+            } else {
+                quests.splice(state.configuration.initialQuests)

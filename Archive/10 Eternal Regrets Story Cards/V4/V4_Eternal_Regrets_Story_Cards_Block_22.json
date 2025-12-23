@@ -1,0 +1,12 @@
+/* start JSON Code Segment 22 of 23, original lines 211-220 (balanced) */
+"keys": "Male",
+    "value": "Pursue romances with males.",
+    "type": "Romance Gender Preference",
+    "title": "Male",
+    "description": "Pursue romances with males.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Both",
+    "value": "Pursue romances with both males and females.",
+/* end JSON Code Segment 22 of 23 */

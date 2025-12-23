@@ -1,0 +1,11 @@
+# Block 14 of 65, original lines 131-140
+authorsNote - is added close to the end of the context, immediately before the most recent AI response. Corresponds to the Authors Note available in the UI.
+frontMemory - is added to the very end of the context, after the most recent player input.
+Note that setting the context or authorsNote here will take precedence over the memory or authors note from the UI, but will not update them. If the context  or authorsNote is not set or is set to an empty string, then the settings from the UI will still be used, so it is not possible to use the state to clear the memory or authors note completely.
+
+Any updates made to the memory in the onOutput hook will not have any affect until the next player action.
+
+message
+This field is a string which will be shown to the user. (Not yet implemented on Phoenix).
+
+info

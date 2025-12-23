@@ -1,0 +1,11 @@
+# Block 23 of 65, original lines 221-230
+Basic Example
+Copy
+const modifier = (text) => {
+
+  let modifiedText = text
+
+  // The text passed in is either the user's input or players output to modify.
+  if(text.includes('grab a sword')) {
+
+    // You can modify the state variable to keep track of state throughout the adventure

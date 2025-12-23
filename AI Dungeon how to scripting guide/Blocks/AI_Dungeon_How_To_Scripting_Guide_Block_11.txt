@@ -1,0 +1,11 @@
+# Block 11 of 65, original lines 101-110
+rawText - the same as text, deprecated and included for backwards compatibility.
+type - the type of the action, the most common types are listed below
+start - the first action of an adventure
+continue - an action created by the AI
+do - a do action submitted by a player
+say - a say action submitted by a player
+story - a story action submitted by a player
+see - a see action submitted by a player
+storyCards
+This field has an array of story cards from the adventure.

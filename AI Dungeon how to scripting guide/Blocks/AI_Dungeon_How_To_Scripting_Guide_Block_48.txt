@@ -1,0 +1,11 @@
+# Block 48 of 65, original lines 471-480
+modifier(text)
+
+// Output Modifer
+const modifier = (text) => {
+  return {text: state.nextOutput ? state.nextOutput : ""};
+}
+
+modifier(text)
+Magic
+Copy

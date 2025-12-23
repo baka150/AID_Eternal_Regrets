@@ -1,0 +1,11 @@
+# Block 37 of 65, original lines 361-370
+const command = commandMatcher[1]
+    const args = commandMatcher[2] ? commandMatcher[2].trim().split(' ') : []
+    state.message = `Got command '${command}' with args ${JSON.stringify(args)}`
+    stop = true
+    text = null
+  } else {
+    delete state.message
+  }
+
+  // You must return an object with the text property defined.

@@ -1,0 +1,42 @@
+[
+  {
+    "keys": "Art Club",
+    "value": "Painting with enchanted brushes that bring art to life temporarily.",
+    "type": "world",
+    "title": "Canvas Conjurers Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Sports Club",
+    "value": "Magical sports like broom racing or enchanted duels.",
+    "type": "world",
+    "title": "Athletic Alliance Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Book Club",
+    "value": "Discussing tomes that whisper secrets when read aloud.",
+    "type": "world",
+    "title": "Lore Legends Society",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Cooking Club",
+    "value": "Brewing potions disguised as gourmet meals with magical effects.",
+    "type": "world",
+    "title": "Culinary Alchemy Society",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Music Club",
+    "value": "Composing spells through melodies with enchanted instruments.",
+    "type": "world",
+    "title": "Harmony Echoes Club",
+    "description": "",
+    "useForCharacterCreation": true
+  }
+]

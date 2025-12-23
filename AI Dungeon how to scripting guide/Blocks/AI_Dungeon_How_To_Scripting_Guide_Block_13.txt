@@ -1,0 +1,11 @@
+# Block 13 of 65, original lines 121-130
+This field is an object where scripts can store additional persistent information to be available across turns. Beyond being an object, this field can have any structure needed for the script.
+
+To change the state, scripts can set values in the state object directly, without using a helper function.
+
+In addition to creator-defined fields, the state object also expects to have the following fields.
+
+memory
+This field is an object with the current memory for the adventure, including the following fields.
+
+context - is added to the beginning of the context, before the history. Corresponds to the Memory available in the UI.

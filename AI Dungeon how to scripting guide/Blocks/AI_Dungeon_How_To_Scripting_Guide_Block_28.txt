@@ -1,0 +1,11 @@
+# Block 28 of 65, original lines 271-280
+note,
+      actionCount: info.actionCount,
+    })
+    state.message = `Noted: ${note}`
+    text = ''
+  } else {
+    delete state.message
+  }
+
+  return {text}

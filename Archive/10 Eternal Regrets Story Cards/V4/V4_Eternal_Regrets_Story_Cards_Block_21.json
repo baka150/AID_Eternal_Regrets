@@ -1,0 +1,12 @@
+/* start JSON Code Segment 21 of 23, original lines 201-210 (balanced) */
+},
+  {
+    "keys": "Female",
+    "value": "Pursue romances with females.",
+    "type": "Romance Gender Preference",
+    "title": "Female",
+    "description": "Pursue romances with females.",
+    "useForCharacterCreation": true
+  },
+  {
+/* end JSON Code Segment 21 of 23 */

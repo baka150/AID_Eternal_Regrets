@@ -1,0 +1,10 @@
+# Block 47 of 65, original lines 461-470
+} else if (number < state.randomNumber) {
+      output += "\nYour guess is too low!";
+    }
+    state.nextOutput = output;
+    return {text}
+  }
+  state.nextOutput = "\nPlease enter a number!";
+  return {text};
+}

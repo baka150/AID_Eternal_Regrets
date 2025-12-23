@@ -1,0 +1,11 @@
+# Block 31 of 65, original lines 301-310
+// Assumes that the notes are sorted from oldest to newest.
+  state.notes = state.notes.filter(({ pattern, note, actionCount }) => {
+    if (actionCount > info.actionCount) {
+      // The user must have hit undo, removing this note.
+      return false
+    }
+
+    const index = context.indexOf(pattern)
+
+    if (index >- 1) {

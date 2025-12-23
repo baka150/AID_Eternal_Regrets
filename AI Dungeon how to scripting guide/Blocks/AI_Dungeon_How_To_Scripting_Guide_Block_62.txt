@@ -1,0 +1,11 @@
+# Block 62 of 65, original lines 611-620
+quests.push({
+                    quest: nextObjective
+                })
+                state.message = "Objective completed! New objective: " + quests[state.configuration.initialQuests].quest + ". To quit, type 'give up on my quest'."
+            }
+        }
+    }
+
+    if (state.configuration.enableSelectionOnCompletedQuest) {
+        if (quests[state.configuration.enableSelectionOnQuest - 1].completed == true && !state.finishedScenario) {

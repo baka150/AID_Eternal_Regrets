@@ -1,0 +1,12 @@
+/* start JSON Code Segment 9 of 23, original lines 81-90 (balanced) */
+},
+  {
+    "keys": "Art Club",
+    "value": "Painting with enchanted brushes that bring art to life temporarily.",
+    "type": "world",
+    "title": "Canvas Conjurers Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+/* end JSON Code Segment 9 of 23 */

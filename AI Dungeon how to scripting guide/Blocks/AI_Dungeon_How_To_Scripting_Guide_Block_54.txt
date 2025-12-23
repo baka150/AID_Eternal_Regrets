@@ -1,0 +1,11 @@
+# Block 54 of 65, original lines 531-540
+name: "quit your job", // The quest's name, shown in the selection message
+                objectives: ["resign from your job"], // The objectives that are part of the quest
+                nextQuests: [ // The quests that should be assigned after the player completes this one
+                    {
+                        name: "find a new job",
+                        objectives: ["get a job"],
+                        nextQuests: []
+                    }
+                ]
+            }

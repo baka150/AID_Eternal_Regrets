@@ -1,0 +1,10 @@
+# Block 12 of 65, original lines 111-120
+Each story card has the following fields.
+
+id - a unique numerical id for the story card
+keys - keys that should cause the story card to be included in the model context
+entry - the text that should be included in the model context if the story card is included
+type - a text field that can be used to separate story cards into categories
+This field was formerly named worldInfo. References to worldInfo are still valid for backwards compatibility.
+
+state

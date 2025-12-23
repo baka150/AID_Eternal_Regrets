@@ -1,0 +1,11 @@
+# Block 39 of 65, original lines 381-390
+let modifiedText = text
+
+  if(!state.events){
+    state.turn = 0
+    state.events = [
+    'You hear a rustling in the bushes near you. Suddenly',
+    'An ear splitting scream suddenly echoes',
+    'You feel a cold chill go up your spine. You look up and see',
+    'You suddenly get hit by',
+    'Before you can do that you hear a loud crash. You look towards the sound and see a dark demonic looking creature',

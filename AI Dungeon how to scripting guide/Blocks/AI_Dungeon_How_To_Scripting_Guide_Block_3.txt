@@ -1,0 +1,11 @@
+# Block 3 of 65, original lines 21-30
+Input - a script that should run during the onInput hook
+Context - a script that should run during the onModelContext hook
+Output - a script that should run during the onOutput hook
+If you have unsaved changes, a white dot will appear next to the script with unsaved changes.
+
+Script Test
+After selecting a non-library script, you will see the Script Test option in a panel on the right.
+
+Input
+The Input text box starts with a default value to illustrate the structure of the inputs available for scripts. You can modify this value to test how your script responds to other inputs.

@@ -1,0 +1,226 @@
+[
+  {
+    "keys": "Romance System",
+    "value": "Every NPC met is a potential suitor—track relationship levels (Acquaintance > Friend > Crush > Lover > Spouse > Parent). Deepen via actions: gifts, dates, quests. Intimacy unlocks at Lover: consensual, detailed scenes with fetish integration post-Friend. Marriage at Spouse via proposal: ceremonies leading to family. Children grow over time-skips. Optional graduation to freeform life.",
+    "type": "plot",
+    "title": "Romance System",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Suitor Memories",
+    "value": "AI remembers all suitors—reference in flashbacks or reunions. Polygamy optional; jealousy adds drama unless resolved.",
+    "type": "plot",
+    "title": "Suitor Memories",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eldoria Academy Romance Spots",
+    "value": "Courtyard for meets, Library for bonds, Pools for dates, Chambers for moments. Lunch Hall for meals, Clubs for ties.",
+    "type": "world",
+    "title": "Romance Spots",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "NPC Suitors",
+    "value": "Generate diverse suitors dynamically upon encounter based on romance gender preference; traits echo themes for depth, integrate fetishes post-Friend.",
+    "type": "character",
+    "title": "Suitors",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Life Cycle Mechanics",
+    "value": "Time advances via choices—skip to marriage, births, kids. Optional graduation to freeform adulthood/old age fantasies. 90% in academy unless romance-driven.",
+    "type": "plot",
+    "title": "Life Cycle",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Intimate Progression",
+    "value": "Build slowly: flirting > kissing > bedding (consensual, emotional, trait-tied post-Friend). Beyond: marriage, pregnancies, kids. Twists optional.",
+    "type": "plot",
+    "title": "Intimate Progression",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Suitor Ledger",
+    "value": "Growing list of suitors met. Adds on fly with traits and hints.",
+    "type": "plot",
+    "title": "Suitor Ledger",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Academy Classes",
+    "value": "Core classes: Potion Brewing, Swordplay, Arcane Lore, Enchantment Arts, Beast Taming, Illusion Weaving. Assign suitors on encounter.",
+    "type": "world",
+    "title": "Academy Classes",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Daily Schedule",
+    "value": "Expanded: before_school_dorm, morning_class, lunch_break, afternoon_class, club_time, evening_free, night_dorm. Weekends: free_time. Advance on intents/auto-ends.",
+    "type": "world",
+    "title": "Daily Schedule",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Debate Club",
+    "value": "Heated debates with magical truth serums for honest resolutions.",
+    "type": "world",
+    "title": "Verbal Vanguard Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Art Club",
+    "value": "Painting with enchanted brushes that bring art to life temporarily.",
+    "type": "world",
+    "title": "Canvas Conjurers Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Sports Club",
+    "value": "Magical sports like broom racing or enchanted duels.",
+    "type": "world",
+    "title": "Athletic Alliance Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Book Club",
+    "value": "Discussing tomes that whisper secrets when read aloud.",
+    "type": "world",
+    "title": "Lore Legends Society",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Cooking Club",
+    "value": "Brewing potions disguised as gourmet meals with magical effects.",
+    "type": "world",
+    "title": "Culinary Alchemy Society",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Music Club",
+    "value": "Composing spells through melodies with enchanted instruments.",
+    "type": "world",
+    "title": "Harmony Echoes Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Enchanted Art Club",
+    "value": "Sculpting golems from clay that animate for short periods.",
+    "type": "world",
+    "title": "Enchanted Art Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Mystic Exploration Club",
+    "value": "Venturing into pocket dimensions for rare artifact hunts.",
+    "type": "world",
+    "title": "Mystic Exploration Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Alchemical Cuisine Club",
+    "value": "Creating feasts that grant temporary magical abilities.",
+    "type": "world",
+    "title": "Mythic Feastmasters Guild",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Sonic Resonance Club",
+    "value": "Using sound amplifiers and harmonic devices for sparks.",
+    "type": "world",
+    "title": "Harmonic Enchanters Symphony",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Logic Circuitry Club",
+    "value": "Magitech arguments with truth-detection and simulation devices for resolutions.",
+    "type": "world",
+    "title": "Rune Enigma Assembly",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "None Club",
+    "value": "Opt out of any club for complete free time and independent explorations.",
+    "type": "world",
+    "title": "Solitary Arcana Wanderer",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Character Description",
+    "value": "Describe your character's backstory and traits (e.g., yearning for romance from past isolation). This customizes the rebirth narrative and internal thoughts.",
+    "type": "character",
+    "title": "Describe Your Character",
+    "description": "Enter a brief backstory; defaults to general yearning if blank.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Player Essentials",
+    "value": "The player is [Name], [Gender], reborn from a yearning for romance into a teenage body at Eldoria Academy. Customize via AI Dungeon defaults.",
+    "type": "plot",
+    "title": "Player Essentials",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yes",
+    "value": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "type": "Enable Polygamy?",
+    "title": "Yes",
+    "description": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "No",
+    "value": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "type": "Enable Polygamy?",
+    "title": "No",
+    "description": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Female",
+    "value": "Pursue romances with females.",
+    "type": "Romance Gender Preference",
+    "title": "Female",
+    "description": "Pursue romances with females.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Male",
+    "value": "Pursue romances with males.",
+    "type": "Romance Gender Preference",
+    "title": "Male",
+    "description": "Pursue romances with males.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Both",
+    "value": "Pursue romances with both males and females.",
+    "type": "Romance Gender Preference",
+    "title": "Both",
+    "description": "Pursue romances with both males and females.",
+    "useForCharacterCreation": true
+  }
+]

@@ -1,0 +1,11 @@
+# Block 20 of 65, original lines 191-200
+text
+For the onInput hook, this will replace the text entered by the player.
+
+Returning an empty string in onInput throws an error which is shown to the player and says Unable to run scenario scripts.
+
+For the onModelContext hook, this will replace the text sent to the AI.
+
+Returning an empty string in onModelContext causes the context to be built as though the script did not run.
+
+For the onOutput hook, this will replace the text returned to the player.

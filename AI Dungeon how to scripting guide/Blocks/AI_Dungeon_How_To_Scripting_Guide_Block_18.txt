@@ -1,0 +1,11 @@
+# Block 18 of 65, original lines 171-180
+Removes a story card.
+
+If the card doesn’t exist, throws an error
+
+Copy
+removeStoryCard(index)
+removeWorldEntry also works for backwards compatibility, but is deprecated.
+
+updateStoryCard
+Updates a story card.

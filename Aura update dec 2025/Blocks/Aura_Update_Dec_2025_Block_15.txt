@@ -1,0 +1,8 @@
+# Block 15 of 15, original lines 141-147
+Image Styles
+Image Styles
+NEW FEATURE (BETA)
+
+Choose the right art style for your adventure with one of our six new Image Style model presets. The styles include Fantasy, Anime, CozyStory, Manga, Comic Book, and Cine-real. The presets work with the SDXL model and can be your new go-to image generators for getting the right look with the least amount of prompt engineering.
+
+This feature is currently available in Beta and will be available in Production in January.

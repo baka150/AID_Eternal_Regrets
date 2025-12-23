@@ -1,0 +1,42 @@
+[
+  {
+    "keys": "None Club",
+    "value": "Opt out of any club for complete free time and independent explorations.",
+    "type": "world",
+    "title": "Solitary Arcana Wanderer",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Character Description",
+    "value": "Describe your character's backstory and traits (e.g., yearning for romance from past isolation). This customizes the rebirth narrative and internal thoughts.",
+    "type": "character",
+    "title": "Describe Your Character",
+    "description": "Enter a brief backstory; defaults to general yearning if blank.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Player Essentials",
+    "value": "The player is [Name], [Gender], reborn from a yearning for romance into a teenage body at Eldoria Academy. Customize via AI Dungeon defaults.",
+    "type": "plot",
+    "title": "Player Essentials",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yes",
+    "value": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "type": "Enable Polygamy?",
+    "title": "Yes",
+    "description": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "No",
+    "value": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "type": "Enable Polygamy?",
+    "title": "No",
+    "description": "Pursue multiple romances? No - Limit to monogamy with potential drama.",
+    "useForCharacterCreation": true
+  }
+]

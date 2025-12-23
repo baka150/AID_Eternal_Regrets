@@ -1,0 +1,11 @@
+# Block 40 of 65, original lines 391-400
+'You discover a horrifying',
+    'You hear a terrifying sound',
+    'You wake up and realize you were dreaming. You look down and see that your arms are in shackles',
+    'A hand grabs your leg and you trip hitting your head on a stone. You wake up in a cage',
+    'An uneasy feeling begins to settle in your stomach as',
+    'You remember a dark feeling from last night',
+    'Suddenly a bloody head rolls toward you from out of the bushes',
+    'You see a massive creature',
+    'A band of cannibals',
+    'You see a band of cannibals',

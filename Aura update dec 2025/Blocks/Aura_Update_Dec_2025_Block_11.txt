@@ -1,0 +1,11 @@
+# Block 11 of 15, original lines 101-110
+STORY/TEXT MODEL
+
+Muse now features doubled context across all tiers. Muse is our divinely inspired storyteller with a gift for nuanced narratives across genres. It excels at emotional intelligence and character development, delivering impressive narrative coherence over long contexts.
+
+Whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios, Muse truly shines when character relationships and emotions are at the forefront. Perfect for players who believe the most memorable stories are defined by their characters.
+
+Free: 4k
+Champion: 16k
+Legend+: 32k
+Discovery Categories

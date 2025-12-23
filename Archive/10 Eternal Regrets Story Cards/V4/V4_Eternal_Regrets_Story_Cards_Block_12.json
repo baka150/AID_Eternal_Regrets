@@ -1,0 +1,12 @@
+/* start JSON Code Segment 12 of 23, original lines 111-120 (balanced) */
+"description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Music Club",
+    "value": "Composing spells through melodies with enchanted instruments.",
+    "type": "world",
+    "title": "Harmony Echoes Club",
+    "description": "",
+    "useForCharacterCreation": true
+/* end JSON Code Segment 12 of 23 */

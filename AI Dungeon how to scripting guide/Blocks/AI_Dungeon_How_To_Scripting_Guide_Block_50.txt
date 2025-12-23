@@ -1,0 +1,10 @@
+# Block 50 of 65, original lines 491-500
+if(!state.spells){
+    state.spells = []
+  }
+
+  const spells = {
+    'SPELL1': 'a deathly fire ball spell that',
+    'SPELL2': 'turning yourself into a cloud allowing you to move at will',
+    'SPELL3': 'a dark spell that summons an evil demon. You hear a dark rumbling and see a cloud of black smoke appear. Out of it appears a large horned demon'
+  }

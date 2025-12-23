@@ -1,0 +1,11 @@
+# Block 22 of 65, original lines 211-220
+When you return stop in the onInput hook, it throws an error which is shown to the player and says Unable to run scenario scripts
+
+When you return stop in the onModelContext hook, it throws an error which is shown to the player and says Sorry, the AI is stumped. Edit/retry your previous action, or write something to help it along.
+
+When you return stop in the onOutput hook, it changes the output to stop. Don’t do this.
+
+Copy
+return { stop: true }
+Example Scripts
+If you have additional example scripts that you’d like to submit for this section, please send them to support@aidungeon.com. The examples below are from the Scripting repo.

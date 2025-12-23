@@ -1,0 +1,147 @@
+Release Notes
+HearthfireNEW FREE MODEL
+Hearthfire
+STORY/TEXT MODEL (FREE)
+
+Not every story needs a dragon to slay or a world to save. Sometimes you just want to stay in the moment: rain on the windows of a bookshop, late-night conversation in a diner, the quiet tension of two people who haven't said what they mean yet.
+
+Hearthfire is our new Mistral Small 3.2 finetune, and it's the lo-fi hip hop beats of AI storytelling. Built for slice-of-life moments, atmospheric scenes, and narratives where the stakes are personal rather than apocalyptic. It won't rush you toward the next plot point. It's happy to linger.
+
+That said, Hearthfire handles adventure perfectly well when you want it to. It just won't be weird if you'd rather spend an hour running a fictional coffee shop.
+
+Available free to all players:
+
+Free: 2k
+Champion: 8k
+Legend: 16k
+Mythic+: 32k
+DeepSeek 3.2
+DeepSeek 3.2
+STORY/TEXT MODEL (PREMIUM)
+
+The latest version of what many consider one of the best AI storytelling models available anywhere. DeepSeek 3.2 becomes our main DeepSeek option, bringing refined prose, sharper dialogue, and that uncanny ability to write scenes that feel like they came from an actual novel.
+
+We've also doubled DeepSeek context length! Now starting at 4k context for Champion tier and up to 16k for Mythic and above. Larger contexts are available until Jan 18th. Previous DeepSeek versions (3.0 and 3.1) remain available if you've grown attached to their particular quirks.
+
+Champion: 4k
+Legend: 8k
+Mythic: 16k
+Shadow: Up to 128k
+Dynamic DeepNEW PREMIUM MODEL
+Dynamic Deep
+STORY/TEXT MODEL (PREMIUM)
+
+It's not really fair for a model to have two superpowers, but that's what Dynamic Deep brings. Dynamic Deep combines the storytelling prowess of the DeepSeek models with the repetition-fighting abilities of a dynamic model. Players loved testing it during beta, where it was known by the code names Shadow and Jupiter.
+
+Dynamic Deep will have the same context lengths as the other DeepSeek models.
+
+Champion: 4k
+Legend: 8k
+Mythic: 16k
+Shadow: Up to 128k
+Month of Doubled DeepSeek
+Month of Doubled DeepSeek
+STORY/TEXT MODEL | Till Jan 18
+
+You've told us that memory and context are at the top of your AI Dungeon wishlist. As a gift for the holiday season, we are going to be doubling DeepSeek context lengths! This will last for one month until Jan 18.
+
+Doubled context for DeepSeek is one of two experimental model setups we're evaluating to identify configurations that offer the best balance of power, context, speed, stability, and accuracy.
+
+One hypothesis is that players care about context length more than other factors. Prioritizing action speeds for users who haven't hit high usage yet will allow us to support higher context lengths for all users. We will test this new infrastructure paradigm for the next month and evaluate player feedback and cost metrics.
+
+Learn more about this experiment on our blog post.
+
+AtlasNEW EXPERIMENTAL MODEL
+Atlas
+STORY/TEXT MODEL (PREMIUM)
+
+Along with its cousin, Raven, Atlas is a new class of AI model for AI Dungeon, featuring a more efficient way for managing memory and context. Atlas is the experimental Pluto model that was highly loved in our last beta test. Based on DeepSeek 3.2, Atlas is equipped with a brand-new cache-efficient processor and a shiny new summary system, enabling an experience that remembers and tracks your story much better.
+
+Note: This model is experimental and may have bugs / edge cases to refine. Not all scripting functions are supported. Available until January 18th.
+
+Available to all premium users:
+
+Champion: 4k-6k
+Legend: 8k-12k
+Mythic: 16k-20k
+Shadow: Up to 128k-132k
+Learn more about this experiment on our blog post.
+
+RavenNEW EXPERIMENTAL MODEL
+Raven
+STORY/TEXT MODEL (PREMIUM)
+
+Raven comes equipped with the same brand-new cache-efficient system as Atlas. It's based on the popular GLM model which is particularly well suited for the new caching system. Players tested Raven as Neptune in our beta tests and enjoyed its sharp writing style and coherence.
+
+Like Atlas, Raven supports higher context lengths with cache-efficient processing and overflow summarization.
+
+Note: This model is experimental and may have bugs / edge cases to refine. Not all scripting functions are supported. Available until January 18th.
+
+Available at the following tiers:
+
+Legend: 4k-6k
+Mythic: 8k-12k
+Shadow: Up to 128k-132k
+Learn more about this experiment on our blog post.
+
+Harbinger
+Harbinger
+STORY/TEXT MODEL (NOW FREE)
+
+Previously a premium-only model, Harbinger is now available to everyone. Harbinger is our adventure finetune that actually lets you fail. Built on Mistral Small, it creates stories where choices have consequences and plot armor doesn't exist. Characters can die. Plans can go sideways. The world pushes back.
+
+If Hearthfire is the cozy evening by the fire, Harbinger is the blizzard outside that might kill you if you make bad decisions. We're happy to let you choose your vibe.
+
+Free: 2k
+Champion: 8k
+Legend: 16k
+Mythic+: 32k
+MuseMuse
+Muse
+STORY/TEXT MODEL
+
+Muse now features doubled context across all tiers. Muse is our divinely inspired storyteller with a gift for nuanced narratives across genres. It excels at emotional intelligence and character development, delivering impressive narrative coherence over long contexts.
+
+Whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios, Muse truly shines when character relationships and emotions are at the forefront. Perfect for players who believe the most memorable stories are defined by their characters.
+
+Free: 4k
+Champion: 16k
+Legend+: 32k
+Discovery Categories
+Discovery Categories
+NEW DISCOVERY FEATURE
+
+In the mood for something specific? Want to find your favorite fantasy world? Or perhaps you're hoping for a cozy slice of life mood? Now it'll be easier than ever to find the right scenario with discovery categories!
+
+The categories were selected from the top tags used by creators. They will be displayed at the top of the Discover page, making it easy to select your favorite genre and scroll through matching content to find a scenario to start your next adventures!
+
+New models header
+New Image Models
+IMAGE MODELS
+
+SDXL is now free for everyone. All players get unlimited access to generate 1024x1024 images. No credits, no limits.
+
+We've also added two new model families for players who want more control:
+Flux 2 - Three tiers of quality and speed. Flex for maximum precision, Dev for quick versatility, Pro for quality at speed.
+Nano Banana - High prompt adherence in two flavors: Flash (faster, medium quality) or Pro (slower, higher quality).
+
+Flux 2 Dev—5 credits, Unlimited for Shadow
+Flux 2 Pro—15 credits, Unlimited for Reaper + Apocalypse
+Flux 2 Flex—30 credits, Unlimited for Apocalypse
+Google Nano Banana Flash—20 credits, Unlimited for Reaper + Apocalypse
+Google Nano Banana Pro—60 credits, Unlimited for Apocalypse
+See Action Update
+See Action Update
+NEW FEATURE (BETA)
+
+Images can enhance your AI Dungeon adventures, but interrupting the flow of your story to generate a prompt can kill your vibe. Now, if you leave the "See" action prompt blank, we'll automatically generate an image for you by using portions of your story, including story cards, to prompt the image model for you.
+
+This feature is currently available in Beta and will be available in Production in January.
+
+Image Styles
+Image Styles
+NEW FEATURE (BETA)
+
+Choose the right art style for your adventure with one of our six new Image Style model presets. The styles include Fantasy, Anime, CozyStory, Manga, Comic Book, and Cine-real. The presets work with the SDXL model and can be your new go-to image generators for getting the right look with the least amount of prompt engineering.
+
+This feature is currently available in Beta and will be available in Production in January.

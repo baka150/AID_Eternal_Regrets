@@ -1,0 +1,10 @@
+# Block 44 of 65, original lines 431-440
+// You must return an object with the text property defined.
+  return {text: modifiedText}
+}
+
+// Don't modify this part
+modifier(text)
+Guess or Die
+Copy
+// Input Modifier

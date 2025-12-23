@@ -1,0 +1,10 @@
+# Block 41 of 65, original lines 401-410
+'A dark creature',
+    'You feel a sharp pain in your side and realize'
+    ]
+  }
+  else{
+    modifiedText = "\n> You try to " + text.substring(7)
+  }
+
+  state.turn = state.turn + 1

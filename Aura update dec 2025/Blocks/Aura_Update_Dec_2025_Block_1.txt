@@ -1,0 +1,11 @@
+# Block 1 of 15, original lines 1-10
+Release Notes
+HearthfireNEW FREE MODEL
+Hearthfire
+STORY/TEXT MODEL (FREE)
+
+Not every story needs a dragon to slay or a world to save. Sometimes you just want to stay in the moment: rain on the windows of a bookshop, late-night conversation in a diner, the quiet tension of two people who haven't said what they mean yet.
+
+Hearthfire is our new Mistral Small 3.2 finetune, and it's the lo-fi hip hop beats of AI storytelling. Built for slice-of-life moments, atmospheric scenes, and narratives where the stakes are personal rather than apocalyptic. It won't rush you toward the next plot point. It's happy to linger.
+
+That said, Hearthfire handles adventure perfectly well when you want it to. It just won't be weird if you'd rather spend an hour running a fictional coffee shop.

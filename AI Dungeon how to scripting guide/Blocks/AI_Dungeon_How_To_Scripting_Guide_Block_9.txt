@@ -1,0 +1,9 @@
+# Block 9 of 65, original lines 81-90
+onOutput
+The output hook allows a script to modify the model’s output text before it is returned to the player.
+
+Params
+Scripting API hooks have access to the following information. When referencing one of these params in a script, you can reference the name of the parameter directly—you do not need to deconstruct it from an object.
+
+text
+For the onInput hook, this field has the text entered by the player.

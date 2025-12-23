@@ -1,0 +1,12 @@
+/* start JSON Code Segment 10 of 23, original lines 91-100 (balanced) */
+"keys": "Sports Club",
+    "value": "Magical sports like broom racing or enchanted duels.",
+    "type": "world",
+    "title": "Athletic Alliance Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Book Club",
+    "value": "Discussing tomes that whisper secrets when read aloud.",
+/* end JSON Code Segment 10 of 23 */

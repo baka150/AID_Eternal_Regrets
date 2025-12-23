@@ -1,0 +1,12 @@
+/* start JSON Code Segment 14 of 23, original lines 131-140 (balanced) */
+"keys": "Mystic Exploration Club",
+    "value": "Venturing into pocket dimensions for rare artifact hunts.",
+    "type": "world",
+    "title": "Mystic Exploration Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Alchemical Cuisine Club",
+    "value": "Creating feasts that grant temporary magical abilities.",
+/* end JSON Code Segment 14 of 23 */

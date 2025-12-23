@@ -1,0 +1,12 @@
+/* start JSON Code Segment 3 of 23, original lines 21-30 (balanced) */
+"type": "world",
+    "title": "Romance Spots",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "NPC Suitors",
+    "value": "Generate diverse suitors dynamically upon encounter based on romance gender preference; traits echo themes for depth, integrate fetishes post-Friend.",
+    "type": "character",
+    "title": "Suitors",
+/* end JSON Code Segment 3 of 23 */

@@ -1,0 +1,11 @@
+# Block 35 of 65, original lines 341-350
+// Make sure the new context isn't too long, or it will get truncated by the server.
+  const combinedLines = lines.join("\n").slice(-(info.maxChars - info.memoryLength))
+  const finalText = [contextMemory, combinedLines].join("")
+  return { text: finalText }
+}
+
+// Don't modify this part
+modifier(text)
+Command Parser
+Copy

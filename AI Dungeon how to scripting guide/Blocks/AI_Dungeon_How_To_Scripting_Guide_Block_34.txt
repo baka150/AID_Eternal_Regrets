@@ -1,0 +1,10 @@
+# Block 34 of 65, original lines 331-340
+// This modifier re-implements Author's Note as an example.
+const modifier = (text) => {
+  const contextMemory = info.memoryLength ? text.slice(0, info.memoryLength) : ''
+  const context = info.memoryLength ? text.slice(info.memoryLength) : text
+  const lines = context.split("\n")
+  if (lines.length > 2) {
+    const authorsNote = "Everyone in this story is an AI programmer."
+    lines.splice(-3, 0, `[Author's note: ${authorsNote}]`)
+  }

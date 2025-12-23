@@ -1,0 +1,11 @@
+# Block 5 of 15, original lines 41-50
+Shadow: Up to 128k
+Month of Doubled DeepSeek
+Month of Doubled DeepSeek
+STORY/TEXT MODEL | Till Jan 18
+
+You've told us that memory and context are at the top of your AI Dungeon wishlist. As a gift for the holiday season, we are going to be doubling DeepSeek context lengths! This will last for one month until Jan 18.
+
+Doubled context for DeepSeek is one of two experimental model setups we're evaluating to identify configurations that offer the best balance of power, context, speed, stability, and accuracy.
+
+One hypothesis is that players care about context length more than other factors. Prioritizing action speeds for users who haven't hit high usage yet will allow us to support higher context lengths for all users. We will test this new infrastructure paradigm for the next month and evaluate player feedback and cost metrics.

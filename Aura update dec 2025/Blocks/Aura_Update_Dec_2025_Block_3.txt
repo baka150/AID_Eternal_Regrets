@@ -1,0 +1,10 @@
+# Block 3 of 15, original lines 21-30
+The latest version of what many consider one of the best AI storytelling models available anywhere. DeepSeek 3.2 becomes our main DeepSeek option, bringing refined prose, sharper dialogue, and that uncanny ability to write scenes that feel like they came from an actual novel.
+
+We've also doubled DeepSeek context length! Now starting at 4k context for Champion tier and up to 16k for Mythic and above. Larger contexts are available until Jan 18th. Previous DeepSeek versions (3.0 and 3.1) remain available if you've grown attached to their particular quirks.
+
+Champion: 4k
+Legend: 8k
+Mythic: 16k
+Shadow: Up to 128k
+Dynamic DeepNEW PREMIUM MODEL

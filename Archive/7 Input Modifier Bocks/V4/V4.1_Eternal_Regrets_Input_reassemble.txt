@@ -1,0 +1,10 @@
+To reassemble the full content:
+
+For Unix/Linux/Mac:
+cat V4.1_Eternal_Regrets_Input_Block_*.js > V4.1_Eternal_Regrets_Input.js
+sed -i '/^# Block /d' V4.1_Eternal_Regrets_Input.js # For text
+sed -i '/^\/\/ start JavaScript Code Segment /d; /^\/\/ end JavaScript Code Segment /d' V4.1_Eternal_Regrets_Input.js # For JS code\nsed -i '/^\/\* start JSON Code Segment /d; /^\/\* end JSON Code Segment /d' V4.1_Eternal_Regrets_Input.js # For JSON\n\nFor Windows (using PowerShell):
+Get-Content V4.1_Eternal_Regrets_Input_Block_*.js | Out-File -FilePath V4.1_Eternal_Regrets_Input.js
+Then manually remove the header comments if needed.
+
+Alternatively, use a text editor to concatenate the files and remove the added comments/lines.

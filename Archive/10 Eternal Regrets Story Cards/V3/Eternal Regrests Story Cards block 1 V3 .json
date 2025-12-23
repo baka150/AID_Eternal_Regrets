@@ -1,0 +1,42 @@
+[
+  {
+    "keys": "Romance System",
+    "value": "Every NPC met is a potential suitor—track relationship levels (Acquaintance > Friend > Crush > Lover > Spouse > Parent). Deepen via actions: gifts, dates, quests. Intimacy unlocks at Lover: consensual, detailed scenes with fetish integration post-Friend. Marriage at Spouse via proposal: ceremonies leading to family. Children grow over time-skips. Optional graduation to freeform life.",
+    "type": "plot",
+    "title": "Romance System",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Suitor Memories",
+    "value": "AI remembers all suitors—reference in flashbacks or reunions. Polygamy optional; jealousy adds drama unless resolved.",
+    "type": "plot",
+    "title": "Suitor Memories",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Eldoria Academy Romance Spots",
+    "value": "Courtyard for meets, Library for bonds, Pools for dates, Chambers for moments. Lunch Hall for meals, Clubs for ties.",
+    "type": "world",
+    "title": "Romance Spots",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "NPC Suitors",
+    "value": "Generate diverse suitors dynamically upon encounter based on romance gender preference; traits echo themes for depth, integrate fetishes post-Friend.",
+    "type": "character",
+    "title": "Suitors",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Life Cycle Mechanics",
+    "value": "Time advances via choices—skip to marriage, births, kids. Optional graduation to freeform adulthood/old age fantasies. 90% in academy unless romance-driven.",
+    "type": "plot",
+    "title": "Life Cycle",
+    "description": "",
+    "useForCharacterCreation": false
+  }
+]

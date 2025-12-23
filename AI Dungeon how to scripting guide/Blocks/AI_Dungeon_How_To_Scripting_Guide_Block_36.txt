@@ -1,0 +1,11 @@
+# Block 36 of 65, original lines 351-360
+// This is an example Input Modifier that looks for commands from the user.
+
+const modifier = (text) => {
+  let stop = false
+
+  // This matches when the user types in ":something arg1 arg2" in any of the three input formats. For example, they could
+  // type ":status" and then command would be "status" and args would be [], or they could type ":walk north" and command
+  // would be "walk" and args would be ["north"].
+  const commandMatcher = text.match(/\n? ?(?:> You |> You say "|):(\w+?)( [\w ]+)?[".]?\n?$/i)
+  if (commandMatcher) {

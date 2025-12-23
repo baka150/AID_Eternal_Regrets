@@ -1,0 +1,10 @@
+# Block 4 of 65, original lines 31-40
+Submit
+The Submit button will send the input, the library, and the script to the server for a test run.
+
+Output
+The Output section will then show the results of the test.
+
+text - this the text value returned by the script
+stop - this is the stop value returned by the script
+logs - this is an array of log outputs from the script

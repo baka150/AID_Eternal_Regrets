@@ -1,0 +1,10 @@
+# Block 53 of 65, original lines 521-530
+// INPUT MODIFIER
+
+const modifier = (text) => {
+    state.configuration = {
+        enableSelectionOnCompletedQuest: false, // Whether quest selection should be restricted until a specific quest is completed
+        enableSelectionOnQuest: 0, // The line number of the quest in the list of quests (e.g. quest on second line = 2) on the Edit Scenario page. Only used when the above is true.
+        initialQuests: 0, // The amount of quests inputted into the Edit Scenario page
+        quests: [ // The quests that will become available to the player either after the above quest is completed or at the start of the scenario.
+            {

@@ -1,0 +1,11 @@
+# Block 63 of 65, original lines 621-630
+state.message = "Quests have been assigned and will be accessible next turn."
+            state.finishedScenario = true
+            state.availableQuests = JSON.parse(JSON.stringify(state.configuration.quests))
+        }
+    }
+
+
+    if (state.nextOutput !== "") {
+        return {
+            text: state.nextOutput

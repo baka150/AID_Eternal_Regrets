@@ -1,0 +1,10 @@
+# Block 8 of 65, original lines 71-80
+Scripting API
+Hooks
+The Scripting API consists of three lifecycle hooks.
+
+onInput
+The input hook allows a script to modify the player’s input text before it is used to construct the model context.
+
+onModelContext
+The model context hook allows a script to change the text sent to the AI model before the model is called.

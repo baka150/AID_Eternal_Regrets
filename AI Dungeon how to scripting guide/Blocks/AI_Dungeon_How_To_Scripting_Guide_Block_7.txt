@@ -1,0 +1,10 @@
+# Block 7 of 65, original lines 61-70
+Contents of the inspect modal expire after 15 minutes.
+
+Play Button
+The play button starts a new adventure from this scenario in a new tab, so you can easily test changes to your scripts.
+
+When you play a child scenario of a multiple choice scenario, the play button will take you directly to the child scenario, rather than taking you to the menu, which would be the experience for players.
+
+Save Button
+The save button saves an unsaved changes.

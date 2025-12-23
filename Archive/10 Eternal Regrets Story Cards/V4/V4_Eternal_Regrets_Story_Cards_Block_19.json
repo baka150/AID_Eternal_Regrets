@@ -1,0 +1,12 @@
+/* start JSON Code Segment 19 of 23, original lines 181-190 (balanced) */
+"type": "plot",
+    "title": "Player Essentials",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Yes",
+    "value": "Pursue multiple romances? Yes - Enable polygamy with reduced jealousy.",
+    "type": "Enable Polygamy?",
+    "title": "Yes",
+/* end JSON Code Segment 19 of 23 */

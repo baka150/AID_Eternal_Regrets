@@ -1,0 +1,42 @@
+[
+  {
+    "keys": "Enchanted Art Club",
+    "value": "Sculpting golems from clay that animate for short periods.",
+    "type": "world",
+    "title": "Enchanted Art Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Mystic Exploration Club",
+    "value": "Venturing into pocket dimensions for rare artifact hunts.",
+    "type": "world",
+    "title": "Mystic Exploration Club",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Alchemical Cuisine Club",
+    "value": "Creating feasts that grant temporary magical abilities.",
+    "type": "world",
+    "title": "Mythic Feastmasters Guild",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Sonic Resonance Club",
+    "value": "Using sound amplifiers and harmonic devices for sparks.",
+    "type": "world",
+    "title": "Harmonic Enchanters Symphony",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Logic Circuitry Club",
+    "value": "Magitech arguments with truth-detection and simulation devices for resolutions.",
+    "type": "world",
+    "title": "Rune Enigma Assembly",
+    "description": "",
+    "useForCharacterCreation": true
+  }
+]

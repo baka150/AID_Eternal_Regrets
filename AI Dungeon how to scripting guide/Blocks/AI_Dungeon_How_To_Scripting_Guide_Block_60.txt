@@ -1,0 +1,11 @@
+# Block 60 of 65, original lines 591-600
+state.message = "Available Quests: " + questNames.join(", ") + ". To take up a quest, type 'take up quest <quest number in list>'."
+    } else if (state.assignedQuest != "") {
+        if (!quests[state.configuration.initialQuests].completed) {
+            state.message = "Current Objective: " + quests[state.configuration.initialQuests].quest + ". To quit, type 'give up on my quest'."
+        } else {
+            nextObjective = state.assignedQuest.objectives.shift()
+            if (nextObjective == undefined) {
+                quests.splice(state.configuration.initialQuests)
+                state.availableQuests = state.availableQuests.filter(e => e.name !== state.assignedQuest.name)
+                for (nextQuest of state.assignedQuest.nextQuests) {

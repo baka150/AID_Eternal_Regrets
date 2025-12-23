@@ -1,0 +1,9 @@
+# Block 21 of 65, original lines 201-210
+Returning an empty string in onOutput throws an error which is shown to the player and says A custom script running on this scenario failed. Please try again or fix the script.
+
+Copy
+return { text: 'New text' }
+Returning the text stop is equivalent to returning stop: true.
+
+stop
+If stop === true, then the game loop will not proceed. This is useful in cases where you want a player input to update the state but to not run the AI.

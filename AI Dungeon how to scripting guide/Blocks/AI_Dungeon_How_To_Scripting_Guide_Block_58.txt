@@ -1,0 +1,11 @@
+# Block 58 of 65, original lines 571-580
+text: text
+    }
+}
+
+modifier(text)
+
+
+// OUTPUT MODIFIER
+
+const modifier = (text) => {

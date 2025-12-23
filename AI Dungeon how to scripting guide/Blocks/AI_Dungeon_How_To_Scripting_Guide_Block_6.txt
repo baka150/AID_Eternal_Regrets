@@ -1,0 +1,11 @@
+# Block 6 of 65, original lines 51-60
+Back Button
+The back button takes you back to the Scenario Editor. If you have unsaved changes, pressing the back button will cause a confirmation dialog to appear which will ask you to Save or Discard your unsaved changes.
+
+Help Button
+The help button opens this Guidebook article in a new tab, so you have easy access to all of the reference information for the Scripting API.
+
+Inspect Button
+The inspect button opens a modal that shows the most recent model context and game state for adventures using the scripts from this scenario.
+
+Only adventures where the owner of the adventure is the owner of the scenario will send model context and game state logs to the inspect modal.

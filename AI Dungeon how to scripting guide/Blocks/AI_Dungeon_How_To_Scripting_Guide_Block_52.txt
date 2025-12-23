@@ -1,0 +1,10 @@
+# Block 52 of 65, original lines 511-520
+return {text: modifiedText}
+}
+
+modifier(text)
+Sundale
+Copy
+// An example of how scripting can be used to manipulate quests, as well as how messages and the state variable can be used to store and show information
+// The code can be given basic changes using the state.configuration object, without needing to deal with the rest of the code
+// The scenario this was made for can be seen at https://play.aidungeon.com/scenario/80sASRH07Lwk/sundale

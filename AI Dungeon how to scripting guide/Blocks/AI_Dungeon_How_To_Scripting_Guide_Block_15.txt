@@ -1,0 +1,11 @@
+# Block 15 of 65, original lines 141-150
+This field is an object that can contain additional values that may sometimes be useful. These values may be different for different hooks.
+
+All Hooks
+characterNames - an array of character names for players of a multiplayer adventure
+actionCount - the total number of actions in the adventure
+onModelContext
+maxChars - the estimated maximum number of characters that can be included in the model context (character per token can vary)
+memoryLength - the number of characters included in the model context from the memory
+Functions
+Scripting API hooks have access to the following functions.

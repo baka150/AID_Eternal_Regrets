@@ -1,0 +1,11 @@
+# Block 57 of 65, original lines 561-570
+quest: state.assignedQuest.objectives.shift()
+        })
+        state.nextOutput = "You decide that the next thing you want to do with your life is " + state.assignedQuest.name.toLowerCase() + "."
+    } else if (text.toLowerCase().includes("\n> you give up on your quest.")) {
+        state.nextOutput = "You give up on your quest to " + state.assignedQuest.name.toLowerCase() + "."
+        state.assignedQuest = ""
+        quests.splice(state.configuration.initialQuests)
+    }
+
+    return {

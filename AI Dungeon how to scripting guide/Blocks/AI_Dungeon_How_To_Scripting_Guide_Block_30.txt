@@ -1,0 +1,10 @@
+# Block 30 of 65, original lines 291-300
+// info.memoryLength is the length of the memory section of text. text.slice(0, info.memoryLength) will be the memory.
+// info.maxChars is the maximum length that text can be. The server will truncate text to this length.
+// info.actionCount is the number of actions in this adventure.
+
+const modifier = (text) => {
+  state.notes = state.notes || []
+
+  const contextMemory = info.memoryLength ? text.slice(0, info.memoryLength) : ''
+  let context = info.memoryLength ? text.slice(info.memoryLength) : text

@@ -1,0 +1,10 @@
+# Block 13 of 15, original lines 121-130
+SDXL is now free for everyone. All players get unlimited access to generate 1024x1024 images. No credits, no limits.
+
+We've also added two new model families for players who want more control:
+Flux 2 - Three tiers of quality and speed. Flex for maximum precision, Dev for quick versatility, Pro for quality at speed.
+Nano Banana - High prompt adherence in two flavors: Flash (faster, medium quality) or Pro (slower, higher quality).
+
+Flux 2 Dev—5 credits, Unlimited for Shadow
+Flux 2 Pro—15 credits, Unlimited for Reaper + Apocalypse
+Flux 2 Flex—30 credits, Unlimited for Apocalypse

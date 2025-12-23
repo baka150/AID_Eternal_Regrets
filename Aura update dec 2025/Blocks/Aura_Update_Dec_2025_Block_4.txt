@@ -1,0 +1,11 @@
+# Block 4 of 15, original lines 31-40
+Dynamic Deep
+STORY/TEXT MODEL (PREMIUM)
+
+It's not really fair for a model to have two superpowers, but that's what Dynamic Deep brings. Dynamic Deep combines the storytelling prowess of the DeepSeek models with the repetition-fighting abilities of a dynamic model. Players loved testing it during beta, where it was known by the code names Shadow and Jupiter.
+
+Dynamic Deep will have the same context lengths as the other DeepSeek models.
+
+Champion: 4k
+Legend: 8k
+Mythic: 16k
