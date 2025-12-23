@@ -1,0 +1,48 @@
+# Dependencies (if using npm or yarn, but skip if not)
+node_modules/
+yarn.lock
+package-lock.json
+
+# Build/Output directories (for any compiled or assembled files)
+dist/
+build/
+*.min.js  # Minified JS if we ever add that
+
+# Logs and debug files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.log
+
+# Environment variables (for secrets, if we add any API keys or configs)
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~.nib
+tmp/
+
+# Our project-specific ignores: assembled full files from blocks (regenerate via cat/Get-Content)
+V4_Eternal_Regrets_*.js  # Full assembled JS files
+V4_Eternal_Regrets_*.json  # Full assembled JSON
+AI_Dungeon_How_To_Scripting_Guide.txt  # Assembled guide
+
+# Ignore any large PDFs or binaries if we add them later
+*.pdf
+*.zip
