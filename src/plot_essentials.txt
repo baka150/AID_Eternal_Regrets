@@ -1,7 +1,7 @@
-[Player Name]: Reborn from yearning backstory, driven to pursue connections quietly; tracks bonds with thresholds; customizable via creation.
-Suitors: Diverse, dynamically generated based on romance gender preference with traits echoing themes; levels build to intimacy/family, integrating fetishes post-Friend.
+// START FULL UPDATE
+[Player Name]: ${(1/5) What is your name? | <INFO> This will be your character's name throughout the story. | <EX> Segg | REQUIRED}, ${(2/5) What is your gender? | <INFO> Choose male, female, or other. | <EX> male | REQUIRED}, reborn from ${(3/5) Describe your past life backstory? | <INFO> Provide a brief backstory for your character (e.g., 'a soldier who died in Vietnam, yearning for peace' or 'a charming playboy seeking redemption'). This customizes suitor reactions and bonds. | <EX> dying in the Vietnam War | REQUIRED}, driven to pursue connections quietly; tracks bonds with thresholds; customizable via creation. Romance Gender Preference: ${(4/5) What is your romance gender preference? | <INFO> Choose Female (pursue romances with females), Male (pursue romances with males), or Both (pursue romances with both males and females). | <EX> Both | REQUIRED}. Polygamy: ${(5/5) Do you want polygamy? | <INFO> Choose Yes (enable polygamy with reduced jealousy) or No (limit to monogamy with potential drama). | <EX> Yes | REQUIRED}.
+Suitors: Diverse, dynamically generated based on romance gender preference with traits echoing themes; levels build to intimacy/family, integrating fetishes post-Friend. Backstories subtly resonate with [Player Name]'s Vietnam War death for emotional depth.
 World: Eldoria Academy—magical high school; expanded periods for encounters; 90% confined here unless romance-driven, optional graduation to freeform.
 Romances: Slow build phases (flirt at Crush, kiss at Crush+, bed at Lover—consensual, emotional, trait-tied); beyond to marriage/pregnancies via proposal.
-Progression: Levels for bonds with flexible caps/thresholds for emotional milestones; time advances (days to years with weekends); no loops, endless play.
-Endings: Optional happy milestones on marriage/graduation; no forced ends—dark turns resolve positively.
-Perspective: First-person [Player Name]; auto-progress on continues; enforce polygamy choice for multi-romances.
+Progression: Levels for bonds with flexible
+Perspective: First-person
